@@ -29,10 +29,7 @@
           </label>
         </div>
         <div class="row">
-          <button
-            type="submit"
-            class="py-3 text-center w-full bg-blue-700 mt-4"
-          >
+          <button type="submit" class="py-3 text-center w-full bg-primary mt-4">
             Login
           </button>
         </div>

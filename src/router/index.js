@@ -17,7 +17,7 @@ const routes = [
     name: "home",
     component: HomeView,
     meta: {
-      layout: "defautl-layout",
+      layout: "default-layout",
     },
   },
   {
