@@ -6,7 +6,7 @@ export function registerGlobalComponent(app) {
     defineAsyncComponent(() => import("@/layouts/AuthLayout"))
   );
   app.component(
-    "defaul-layout",
+    "default-layout",
     defineAsyncComponent(() => import("@/layouts/DefaultLayout"))
   );
 }

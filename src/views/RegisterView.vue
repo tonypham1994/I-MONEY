@@ -39,7 +39,7 @@
           </label>
         </div>
         <div class="row">
-          <button type="submit" class="py-3 text-center w-full bg-blue-700">
+          <button type="submit" class="py-3 text-center w-full bg-primary">
             Sign Up
           </button>
         </div>
